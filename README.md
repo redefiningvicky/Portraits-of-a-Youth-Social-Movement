@@ -1,5 +1,6 @@
 # 📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy
 ## 🎯 Objective <br>
+This project focuses on the work of Young Invincibles (YI), a youth advocacy organization in the United States, and their role in promoting equitable access to higher education. Through their leadership model, campaigns, research, and policy efforts, YI strengthens the voices of young people and addresses educational inequities, empowering them to engage in education advocacy. <p>
 ## 🛠️ Tools <br>
 • <b>GIS:</b> ArcGIS Online, ArcGIS Storymaps <p>
 ## 🌐 Website <br>
