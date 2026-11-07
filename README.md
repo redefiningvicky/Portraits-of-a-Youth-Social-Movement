@@ -1,8 +1,91 @@
-# 📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy
-## 🎯 Objective <br>
-This project focuses on the work of Young Invincibles (YI), a youth advocacy organization in the United States, and their role in promoting equitable access to higher education. Through their leadership model, campaigns, research, and policy efforts, YI strengthens the voices of young people and addresses educational inequities. This work empowers young people to engage in education advocacy. <p>
-## 🛠️ Tools <br>
-ArcGIS Online, ArcGIS StoryMaps <p>
-## 🌐 StoryMaps <br>
-This project is a fully functional StoryMaps available at the following link: [View StoryMaps](https://arcg.is/v1uu4). <p>
-![me](https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement/blob/2cdb8ad62b8c519fc76fa6679e25d6a64fa6bf89/Portraits_of_a_Youth_Social_Movement.gif)
+
+<div align="center">
+
+  <h1>📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy</h1>
+
+  <p>
+    A StoryMaps presentation examining youth advocacy
+    and equitable access to higher education.
+  </p>
+
+</div>
+
+<hr>
+
+<h2>📑 Table of Contents</h2>
+
+<ul>
+  <li><a href="#objective">Objective</a></li>
+  <li><a href="#project-details">Project Details</a></li>
+  <li><a href="#storymaps">StoryMaps</a></li>
+  <li><a href="#images">Images</a></li>
+</ul>
+
+<hr>
+
+<h2 id="objective">🎯 Objective</h2>
+
+<p>
+  This project focuses on the work of Young Invincibles (YI),
+  a youth advocacy organization in the United States,
+  and their role in promoting equitable access to higher
+  education. Through their leadership model, campaigns,
+  research, and policy efforts, YI strengthens the voices
+  of young people and addresses educational inequities.
+  This work empowers young people to engage in
+  education advocacy.
+</p>
+
+<hr>
+
+<h2 id="project-details">🛠️ Project Details</h2>
+
+<p>
+  <strong>Tools:</strong> ArcGIS Online, ArcGIS StoryMaps
+</p>
+
+<hr>
+
+<h2 id="storymaps">🌐 StoryMaps</h2>
+
+<p>
+  <a href="https://arcg.is/v1uu4">
+    View StoryMaps
+  </a>
+</p>
+
+<hr>
+
+<h2 id="images">🖼️ Images</h2>
+
+<h3>Portraits of a Youth Social Movement StoryMaps</h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement/blob/main/Portraits_of_a_Youth_Social_Movement.gif">
+        <img
+          src="Portraits_of_a_Youth_Social_Movement.gif"
+          alt="Portraits of a Youth Social Movement StoryMaps animated preview"
+          width="100%"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/redefiningvicky/Technical-Projects">
+      Back to Technical Projects
+    </a>
+    &nbsp; • &nbsp;
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
+    </a>
+  </p>
+
+</div>
