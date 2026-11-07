@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1>📢 Portraits of a Youth Social Movement: Young Invincibles (YI) in Education Advocacy</h1>
@@ -23,7 +22,8 @@
 
 <hr>
 
-<h2 id="objective">🎯 Objective</h2>
+<a name="objective"></a>
+<h2>🎯 Objective</h2>
 
 <p>
   This project focuses on the work of Young Invincibles (YI),
@@ -38,7 +38,8 @@
 
 <hr>
 
-<h2 id="project-details">🛠️ Project Details</h2>
+<a name="project-details"></a>
+<h2>🛠️ Project Details</h2>
 
 <p>
   <strong>Tools:</strong> ArcGIS Online, ArcGIS StoryMaps
@@ -46,7 +47,8 @@
 
 <hr>
 
-<h2 id="storymaps">🌐 StoryMaps</h2>
+<a name="storymaps"></a>
+<h2>🌐 StoryMaps</h2>
 
 <p>
   <a href="https://arcg.is/v1uu4">
@@ -56,16 +58,17 @@
 
 <hr>
 
-<h2 id="images">🖼️ Images</h2>
+<a name="images"></a>
+<h2>🖼️ Images</h2>
 
 <h3>Portraits of a Youth Social Movement StoryMaps</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/Portraits-of-a-Youth-Social-Movement/blob/main/Portraits_of_a_Youth_Social_Movement.gif">
+      <a href="3_GIF/Portraits_of_a_Youth_Social_Movement.gif">
         <img
-          src="Portraits_of_a_Youth_Social_Movement.gif"
+          src="3_GIF/Portraits_of_a_Youth_Social_Movement.gif"
           alt="Portraits of a Youth Social Movement StoryMaps animated preview"
           width="100%"
         />
